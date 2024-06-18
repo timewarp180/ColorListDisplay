@@ -1,3 +1,8 @@
+Requirements:
+npm install bootstrap@5.3.3
+npm install axios
+
+
 # vue-colorDisplay
 
 This template should help get you started developing with Vue 3 in Vite.
